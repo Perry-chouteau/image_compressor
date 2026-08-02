@@ -1,1 +1,1 @@
-# imageCompressor
+docs/README.md
